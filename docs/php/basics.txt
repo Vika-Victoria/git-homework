@@ -1,0 +1,4 @@
+PHP Basics
+PHP version: 8.3
+Variables, constants and data types
+Functions and collections
