@@ -1,0 +1,4 @@
+PHP Basics
+PHP version: 8.2
+Variables and data types
+Functions and arrays
